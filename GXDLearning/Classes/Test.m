@@ -10,7 +10,7 @@
 @implementation Test
 
 -(void)log{
-    NSLog("测试的呀");
+    NSLog(@"测试的呀");
 }
 
 @end
