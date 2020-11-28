@@ -1,0 +1,6 @@
+framework module GXDLearning {
+  umbrella header "GXDLearning-umbrella.h"
+
+  export *
+  module * { export * }
+}

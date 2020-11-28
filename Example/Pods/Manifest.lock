@@ -1,0 +1,31 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GXDLearning (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GXDLearning (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - Kiwi
+
+EXTERNAL SOURCES:
+  GXDLearning:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GXDLearning: 9a2c7b5369de3876f3aa58f3f3f5c67ed619c4ad
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: f09d838ed39d2ac82950369e36cbda77e66b24f4
+
+COCOAPODS: 1.10.0
